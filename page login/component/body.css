@@ -1,0 +1,26 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(/assents/image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.button{
+    position: absolute;
+    background-color: #fff;
+    text-decoration: none;
+    color: #000;
+    padding: 10px 50px;
+    border-radius: 20px;
+    margin-right: 85%;
+    margin-bottom: 40%;
+}
+
+.button:hover{
+    background-color: transparent;
+    border: 2px solid #000;
+    color: #000;
+    transition: 0.5s;
+}

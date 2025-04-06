@@ -1,0 +1,14 @@
+.register-link{
+    font-size: 14px;
+    text-align: center;
+    margin: 20px 0 15px;
+    color: #fff;
+}
+.register-link a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.register-link a:hover {
+   text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+.forgot{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    color: #fff;
+}
+
+.forgot label input{
+    accent-color: #fff;
+    margin-right: 5px;
+}
+.forgot a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.forgot a:hover{
+    text-decoration: underline;
+}
